@@ -1,6 +1,6 @@
 # Instagram Followers Manager
 
-A command-line tool to manage your Instagram followers. This tool allows you to display your followers, following, people who don't follow you back, and store the information in a file.
+Tired of giving your private information to external apps? Manage your Instagram followers with ease using this command-line tool. You can display your followers, following, people who don't follow you back, and store the information in a file.
 
 ## Requirements
 
