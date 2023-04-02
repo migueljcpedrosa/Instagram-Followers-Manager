@@ -42,7 +42,7 @@ void Menu::showMenu()
                 Display::displayPeopleWhoDontFollowBack(result);
                 break;
             case 4:
-                Storer::storeVectorToFile("../peoplewhodontfollowback.txt", result);
+                Storer::storeVectorToFile("../instagram_data/peoplewhodontfollowback.txt", result);
                 break;
             case 5:
                 std::cout << "Goodbye!" << std::endl;
