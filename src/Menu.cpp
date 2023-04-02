@@ -13,7 +13,7 @@ void Menu::showMenu()
     std::vector<std::string> followers;
     std::vector<std::string> following;
     std::string fileFollowers = "../instagram_data/followers.json";
-    std::string fileFollowing = "../instagram_data1/following.json";
+    std::string fileFollowing = "../instagram_data/following.json";
     Reader::reader(fileFollowers, followers);
     Reader::reader(fileFollowing, following);
     std::vector<std::string> result;
